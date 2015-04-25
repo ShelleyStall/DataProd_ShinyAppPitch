@@ -13,7 +13,9 @@ knit        : slidify::knit2slides
 
 ## Introduction
 
-Using this interactive app, a user can learn about the number of schools in their state for post-secondary education that qualify for Title IV federal financial aid. 
+Using this interactive app, a user can learn about the number of schools in their state for post-secondary education that qualify for Title IV federal financial aid.
+
+[Locating Post-Secondary Schools by State App](http://shelleystall.shinyapps.io/DataProd/)
 
 # Purpose:
 

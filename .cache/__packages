@@ -6,3 +6,5 @@ devtools
 knitr
 rCharts
 ggplot2
+shinyapps
+rmarkdown
